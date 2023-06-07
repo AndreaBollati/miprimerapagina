@@ -1,5 +1,5 @@
 body {
-    background-color: aquamarine;
+    background-color: antiquewhite;
 }
 
 h1 {
@@ -25,7 +25,7 @@ p {
 }
 
 h1 {
-    color: blue;
+    color: coral;
     font-family: Comic Sans MS;
     font-size: 30px;
     text-align: center
@@ -57,7 +57,7 @@ body {
     display: flex;
     padding: 10px;
     height: 50px;
-    background-color: aquamarine;
+    background-color: rgb(226, 195, 153);
 }
 
 .navbar {
@@ -102,6 +102,10 @@ a {
     width: 400px;
 }
 
+.greeting{
+    text-align: center;
+    
+}
 @media (max-width: 768px) {
     .column {
         flex: 100%;
